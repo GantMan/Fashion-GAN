@@ -1,2 +1,2 @@
 # Fashion-GAN
-Week 6 HW - Create Fashion GAN from FASHION-MNIST
+Simple Exercise in GAN - Create Fashion GAN from FASHION-MNIST
